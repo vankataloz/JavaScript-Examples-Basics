@@ -1,0 +1,4 @@
+function smallShop(input){
+
+}
+smallShop([]);
